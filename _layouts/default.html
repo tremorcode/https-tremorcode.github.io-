@@ -21,7 +21,7 @@
                             </video>
                         </div>  
                         
-                    
+                        <img class="iphoneScreen hidden" src="" alt="">
 
                         {% include screencontent.html %}
 
@@ -51,9 +51,9 @@
                             </p>
                         </div>
                         <div class="downloadButtonsContainer">
-                           
+                            {% if site.playstore_link %}
                                 <a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="assets/playstore.png"></a>
-                           
+                            {% endif %}
                         </div>
                     </div>
                     {% include features.html %}
