@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : #1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                              # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.tc.bestquotes                                          # Enter Google Play Store URL.
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Tremor Code                               
-your_link                                 : https://tremorcode.github.io/                     
+your_link                                 : #https://tremorcode.github.io/                     
 your_city                                 : #Copenhagen                                
 email_address                             : tc_contact@yahoo.com
 facebook_username                         :                                           
