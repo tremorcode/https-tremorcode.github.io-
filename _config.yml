@@ -38,41 +38,31 @@ features                                  :
     description                           : The most popular quotes, sayings and proverbs in one app. Carefully handpicked collection of most popular and most liked quotes.
     fontawesome_icon_name                 : quote-right
     
+  - title                                 : Share with friends
+    description                           : Share with your friends and share on social media with tap. 
+    fontawesome_icon_name                 : share
+    
   - title                                 : Famous authors
     description                           : Quotes from most famous authors and writers. 
     fontawesome_icon_name                 : fire-alt
 
   - title                                 : Favorite quotes
     description                           : Create your own list with your favorite quotes. Find your favorite quotes easy and share them on social media.
-    fontawesome_icon_name                 : heart-circle
+    fontawesome_icon_name                 : heart
 
   - title                                 : Quote as image
     description                           : Share quote as image, edit background, font size and font style, set as wallpaper or save on your device
     fontawesome_icon_name                 : image
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : 30 unique categories
+    description                           : Browse 30 unique categories with unique quotes.
+    fontawesome_icon_name                 : list-ol
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : 100% free
+    description                           : You can download this app for free on Play Store. Everything is unlocked and available.
+    fontawesome_icon_name                 : download
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
