@@ -8,12 +8,14 @@
 					</clipPath>
 				</defs>
 			</svg>
-		
+			{% if page.url != '/' %}
 				<a href="../" target="_self"><img class="headerIcon" src="{{ site.website_icon }}"></a>
-		
+			{% else %}
+				<img class="headerIcon" src="{{ site.website_icon }}">
+			{% endif %}
 			<div class="divider"></div>
 		</div>
-		<p class="headerName">{{ "TremorCode" }}</p>
+		<p class="headerName">{{ site.your_name }}</p>
 	</div>
 	<nav class="scroll">
 		<ul>
@@ -22,7 +24,7 @@
 				<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
 				{% endif %}
 			{% endfor %}
-			
+		
 		</ul>
 	</nav>
 </header>
