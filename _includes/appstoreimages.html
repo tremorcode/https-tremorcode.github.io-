@@ -16,7 +16,7 @@ $(function() {
             var appInfo = json.results[0];
 
             // Set favicon
-           
+            $('link[rel="shortcut icon"]').attr("href", appInfo.artworkUrl512);
 
             // Set page title using the iOS app ID if it is not set manually in _config.yml
             var $pageTitle = $(".pageTitle");
@@ -32,7 +32,9 @@ $(function() {
 
             // Set header app icon using the iOS app ID if it is not set manually in _config.yml
             var $appIconHeader = $(".headerIcon");
-         
+            if (!$appIconHeader.attr('src')) {
+                $($appIconHeader).attr("src", appInfo.artworkUrl512);
+            }
 
             // Set app name using the iOS app ID if it is not set manually in _config.yml
             var $appName = $(".appName");
