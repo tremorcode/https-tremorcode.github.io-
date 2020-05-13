@@ -12,7 +12,7 @@ website_icon                              : assets/logo.png
 app_icon                                  : assets/Icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Best quotes for every day and mood                                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Think positive, stay strong and seize the day, share on social media and more! Download our free app and get free quotes.
+app_description                           : Think positive, stay strong and seize the day, share quotes on social media and more! Download our free app and get the most popular quotes.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
  
@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : TremorCode                               
-your_link                                 : #https://tremorcode.github.io/                     
-your_city                                 : #Copenhagen                                
+your_link                                 : #https://tremorcode.github.io/                    
+your_city                                 : #Serbia                                
 email_address                             : tc_contact@yahoo.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -62,9 +62,13 @@ features                                  :
     description                           : You can download this app for free on Play Store. Everything is unlocked and available.
     fontawesome_icon_name                 : download
 
+  - title                                 : 100% optimized
+    description                           : Optimized to work on all devices. 
+    fontawesome_icon_name                 : tablet
 
-
-
+  - title                                 : Work's offline
+    description                           : Browse all quotes offline anytime anywhere you are. No internet connection is required.
+    fontawesome_icon_name                 : wifi
 
 # Theme Settings
 topbar_color                              : "#000000"
