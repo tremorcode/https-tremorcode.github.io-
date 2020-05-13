@@ -6,7 +6,7 @@
 
 $(function() {
 
-    var apiURL = "https://itunes.apple.com/lookup?id={{ site.ios_app_id }}&callback=?";
+    var apiURL = "https://play.google.com/store/apps/details?id=com.facebook.katana&callback=?";
 
     $.getJSON(apiURL, function(json) {
 
@@ -15,7 +15,14 @@ $(function() {
             console.info("Image strings loaded from Apple API.");
             var appInfo = json.results[0];
 
-            // Set favicon
+                // Set favicon
+            $('link[rel="shortcut icon"]').attr("href", appInfo.artworkUrl512);
+
+            // Set page title using the iOS app ID if it is not set manually in _config.yml
+            var $pageTitle = $(".pageTitle");
+            if ($.trim($($pageTitle).text()).length == 0) {
+                $($pageTitle).html(appInfo.trackName);
+            }
         
             // Set large app icon using the iOS app ID if it is not set manually in _config.yml
             var $appIconLarge = $(".appIconLarge");
