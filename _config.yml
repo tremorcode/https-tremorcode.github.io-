@@ -50,7 +50,7 @@ features                                  :
     description                           : Create your own list with your favorite quotes. Find your favorite quotes easy and share them on social media.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Quote as image
+  - title                                 : Quote editor
     description                           : Share quote as image, edit background, font size and font style, set as wallpaper or save on your device
     fontawesome_icon_name                 : image
 
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : download
 
   - title                                 : 100% optimized
-    description                           : Optimized to work on all devices. 
+    description                           : Optimized to work on 99% devices. 
     fontawesome_icon_name                 : tablet
 
   - title                                 : Work's offline
