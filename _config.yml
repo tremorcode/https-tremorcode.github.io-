@@ -50,11 +50,11 @@ features                                  :
     description                           : Create your own list with your favorite quotes. Find your favorite quotes easy and share them on social media.
     fontawesome_icon_name                 : heart
 
-  - title                                 : Quote editor
-    description                           : Share quote as image, edit background, font size and font style, set as wallpaper or save on your device
+  - title                                 : Quote editor and creator
+    description                           : Create, edit and share quote as image, edit to your own liking, set as wallpaper, share on social media or save on your device
     fontawesome_icon_name                 : image
 
-  - title                                 : 30 unique categories
+  - title                                 : 30+ unique categories and over 1000 quotes
     description                           : Browse 30 unique categories with unique quotes.
     fontawesome_icon_name                 : list-ol
   
