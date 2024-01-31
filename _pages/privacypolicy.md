@@ -25,7 +25,21 @@ https://support.google.com/admob/answer/9012903?hl=en-GB
 •	Flurry Analytics 
 https://developer.yahoo.com/policies/
 
+Facebook:
+https://www.facebook.com/about/privacy
+https://www.facebook.com/privacy/policy
 
+AppLovin
+https://www.applovin.com/privacy/
+
+ironSource:
+https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
+
+UnityAds:
+https://unity3d.com/legal/privacy-policy
+
+Pangle: 
+https://www.pangleglobal.com/privacy/enduser-en
 
 
 Security:
