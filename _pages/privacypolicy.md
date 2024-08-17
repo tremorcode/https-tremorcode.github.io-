@@ -17,26 +17,25 @@ Additionally, we use GameAnalytics to gather data on how our apps are used. Game
 Device Information: Device model, operating system version, and unique identifiers.
 Usage Data: Information about how you use our app, including features used, time spent, and interactions.
 Performance Data: App performance metrics, such as crash reports and error logs.
-To read more about how GameAnalytics collects and uses your data, you can review their privacy policy here:
+To read more about how GameAnalytics collects and uses your data, you can review their privacy policy here: [GameAnalytics Privacy Policy](https://gameanalytics.com/privacy/)
 
-GameAnalytics Privacy Policy
 To read more about how other third-party companies collect and use your data, please refer to the following:
 
-AdMob: AdMob Privacy Policy
+- **AdMob:** [AdMob Privacy Policy](https://www.google.com/intl/en/policies/privacy/partners/)
+  - [List of AdMob Ad Technology Providers](https://support.google.com/admob/answer/9012903?hl=en-GB)
 
-List of AdMob Ad Technology Providers
-Flurry Analytics: Flurry Privacy Policy
+- **Flurry Analytics:** [Flurry Privacy Policy](https://developer.yahoo.com/policies/)
 
-Facebook: Facebook Privacy Policy
+- **Facebook:** [Facebook Privacy Policy](https://www.facebook.com/about/privacy)  
+  - [Facebook Privacy Policy Details](https://www.facebook.com/privacy/policy)
 
-Facebook Privacy Policy Details
-AppLovin: AppLovin Privacy Policy
+- **AppLovin:** [AppLovin Privacy Policy](https://www.applovin.com/privacy/)
 
-ironSource: ironSource Privacy Policy
+- **ironSource:** [ironSource Privacy Policy](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
 
-UnityAds: UnityAds Privacy Policy
+- **UnityAds:** [UnityAds Privacy Policy](https://unity3d.com/legal/privacy-policy)
 
-Pangle: Pangle Privacy Policy
+- **Pangle:** [Pangle Privacy Policy](https://www.pangleglobal.com/privacy/enduser-en)
 
 Security:
 
